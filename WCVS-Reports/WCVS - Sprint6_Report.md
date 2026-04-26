@@ -7,14 +7,23 @@ For the final sprint, we focused on polishing the remaining work from the previo
 ## Work Summary (Developer Facing) 🧑‍💻
 During the final sprint, we focused on stabilizing the project, cleaning up remaining implementation details, and preparing the codebase for handoff. We addressed minor bugs in the admin dashboard, particularly around creating and assigning date ranges, and expanded the holiday theme system by adding additional themes with configurable durations. We also refined the bottom navigation bar and quick links to improve consistency across the site. On the documentation side, we completed the technical handoff materials and ADA-compliance documentation so future developers and maintainers can better understand the system. The sprint also included final deployment preparation, client review, and approval, ensuring the project was ready for official release.
 
-## Unfinished Work ☝️
-* 
+## Unfinished Work (Issues to be created soon)☝️
+* N/A
 
 ## Completed Issues/User Stories ✅
-* 
+* [Create Website Supporting Docs for Bottom Banner](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/64)
+* [Rights, Policies & License for whitmanvs.com](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/47)
+* [Add Custom Duration Setting](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/62)
+* [Prep Project Handoff Materials (Developer)](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/65)
+* [Add Custom Theme](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/66)
+* [Add Additional Holiday Themes](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/61)
+* [Update GitHub readme instructions](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/67)
+* [Create Accessibility Statement + Supporting Docs](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/63)
+* [Smoother Transition of Clicked Images](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/49)
 
 ## Incomplete & In-Progress Issues/User Stories ⚠️
-* 
+* [ARIA extension feature](https://github.com/lsc-compsci/WCVS-Veteran_e-Post_Hub/issues/46)
+  - Supplementary Feature that has yet to be integrated into our fully functioning website that will ease appearance for those with disabilities.
 
 ## Code Files for Review 📝📈
 * [e-post_hub/prisma/schema.prisma](https://github.com/logancribbs/WCVS-Veteran_e-Post_Hub/blob/fix/vercel-prod/e-post_hub/prisma/schema.prisma)
@@ -28,10 +37,17 @@ During the final sprint, we focused on stabilizing the project, cleaning up rema
 
 ## Retrospective Summary 🧾
 Here's what went well:
-* 
+* We were able to polish the remaining features from the previous sprint and bring the project to a stable final state.
+* The admin dashboard, holiday theme system, bottom navigation bar, and quick links were improved and cleaned up.
+* We completed the technical and ADA-compliant documentation needed for handoff.
+* The final client meeting went well, and we received approval for official deployment.
+* We successfully designed and printed the senior project poster.
 
 Here's what we'd like to improve:
-* 
+* We would have liked to complete some polishing tasks earlier to leave more time for final testing.
+* More structured testing throughout the sprint would have helped catch minor bugs sooner.
+* Documentation could have been started earlier so the final handoff process felt less rushed.
 
 Here are changes we plan to implement in the next sprint:
-* 
+* Since this was the final sprint, there are no planned changes for a future sprint.
+* If development continued, the next steps would be to expand testing, continue improving accessibility, and gather feedback from real users after deployment.
